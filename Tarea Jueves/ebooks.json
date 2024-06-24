@@ -1,0 +1,44 @@
+[
+    {
+        "codigo": "8001",
+        "Nombre": "Postres saludables",
+        "precio": "25",
+        "descripcion": "Más de 30 recetas de postres fitness y peruanos"
+    },
+    {
+        "codigo": "8002",
+        "Nombre": "Desayunos saludables",
+        "precio": "10",
+        "descripcion": "7 desayunos para cada día de la semana, dulces y salados, incluye link de video con la preparación de las recetas"
+    },
+    {
+        "codigo": "8003",
+        "Nombre": "Plan para 1 semana",
+        "precio": "10",
+        "descripcion": "Más de 30 recetas de desayunos, almuerzos y cenas, explicadas a detalle con información nutricional"
+    },
+    {
+        "codigo": "8004",
+        "Nombre": "Plan para 4 semanas",
+        "precio": "30",
+        "descripcion": "Más de 100 recetas de desayunos, almuerzos y cenas, explicadas a detalle con información nutricional"
+    },
+    {
+        "codigo": "8005",
+        "Nombre": "Loncheras nutritivas para niños",
+        "precio": "25",
+        "descripcion": "Más de 30 recetas de loncheras nutritivas para niños"
+    },
+    {
+        "codigo": "8006",
+        "Nombre": "Loncheras nutritivas para adolescentes",
+        "precio": "25",
+        "descripcion": "Más de 30 recetas de loncheras nutritivas para adolescentes"
+    },
+    {
+        "codigo": "8007",
+        "Nombre": "Bebidas saludables",
+        "precio": "15",
+        "descripcion": "Más de 40 recetas de bebidas frías y calientes, con alto aporte de vitaminas y minerales para distintas condiciones de salud"
+    }
+]
